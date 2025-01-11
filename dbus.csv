@@ -1,0 +1,884 @@
+ NUM. Tp ...NombreB.. Id  # tg Plnt Nombre Gener.Area %per1 Ploa1 Pind1 PerF1 %per2 Ploa2 Pind2 PerF2 %per3 Ploa3 Pind3 PerF3 %per4 Ploa4 Pind4 PerF4 %per5 Ploa5 Pind5 PerF5 Icca
+  999  0 Bacata500shn co                            5                                                                                                                            0
+    1  0 Cerromia1shn co  1  2 2045 TC_GECELCA32    1                                                                                                                            0
+    2  0 Copey-500shn co                            1                                                                                                                            0
+    3  0 ReaVirNvEsp  co                            3                                                                                                                            0
+    4  0 SanMatia2220 co                            4                                                                                                                            0
+    5  0 Renacer115   co                            3                                                                                                                            0
+    6  0 Renacer220   co                            3                                                                                                                            0
+    7  0 AltoAnhya220 co  1  1  409 ALTOANCHICAY    3                                                                                                                            0
+    8  0 Amalfi110    co  1  1 1004 H_Amalfi        2                                                                                                                            0
+    8  0 Amalfi110    co  2  1 1047 H_LuzMaI        2                                                                                                                            0
+    8  0 Amalfi110    co  3  1 1048 H_LuzMaII       2                                                                                                                            0
+    9  0 Aguablnca115 co                            3                                                                                                                            0
+   10  0 Alcaravan115 co                            4                                                                                                                            0
+   11  0 AlferezII115 co                            3                                                                                                                            0
+   12  0 Alferez220   co                            3                                                                                                                            0
+   13  0 Alferez500   co                            3                                                                                                                            0
+   14  0 AlferezI115  co                            3                                                                                                                            0
+   15  0 Altamira115  co                            3                                                                                                                            0
+   16  0 Altamira220  co                            3                                                                                                                            0
+   17  0 Amaga110     co  1  1 1001 H_AguaFresca    2                                                                                                                            0
+   17  0 Amaga110     co  2  1 1163 H_AutArCairo    2                                                                                                                            0
+   18  0 AnconEPM110  co  1  1 1165 H_AutAyura      2                                                                                                                            0
+   19  0 AnconEPM220  co                            2                                                                                                                            0
+   20  0 AnconEPM46.6 co                            2                                                                                                                            0
+   21  0 AnconISA220  co                            2                                                                                                                            0
+   22  0 Antioquia110 co                            2                                                                                                                            0
+   23  0 Antioquia44  co  1  1 1039 H_JuanGarcia    2                                                                                                                            0
+   23  0 Antioquia44  co  2  1 1129 H_PanderiscI    2                                                                                                                            0
+   24  0 Antioquia500 co  1  1  509 ITUANGO         2                                                                                                                            0
+   25  0 Apartado110  co                            1                                                                                                                            0
+   26  0 Argos110     co  1  2 3002 T_ArgoCartag    1                                                                                                                            0
+   27  0 Aranjuez115  co                            5                                                                                                                            0
+   28  0 Armenia115   co  1  1 1025 H_ElBosque      3                                                                                                                            0
+   29  0 Armenia220   co                            3                                                                                                                            0
+   30  0 NtpAur80     co  1  1 1007 H_AuresBajo     2                                                                                                                            0
+   30  0 NtpAur80     co  2  1 1096 H_Sonson        2                                                                                                                            0
+   30  0 NtpAur80     co  3  1 1111 H_AuresAlto     2                                                                                                                            0
+   30  0 NtpAur80     co  4  1 1142 H_Sirgua        2                                                                                                                            0
+   30  0 NtpAur80     co  5  1 1128 H_Paloma        2                                                                                                                            0
+   31  0 Aurora115    co                            5                                                                                                                            0
+   32  0 Autopista115 co                            5                                                                                                                            0
+   33  0 Avenidera115 co                            5                                                                                                                            0
+   34  0 Ayura110     co                            2                                                                                                                            0
+   35  0 BuenaVsta115 co                            4                                                                                                                            0
+   36  0 Bacata220    co                            5                                                                                                                            0
+   37  0 Bacata211.4  co                            5                                                                                                                            0
+   38  0 Balsillas115 co                            5                                                                                                                            0
+   39  0 Balsillas220 co                            5                                                                                                                            0
+   40  0 BajoAnhya115 co  1  1  410 BAJOANCHICAY    3                                                                                                                            0
+   41  0 Banadia220   co                            4                                                                                                                            0
+   42  0 Barranca220  co                            4                                                                                                                            0
+   43  0 NtpBav1      co                            4                                                                                                                            0
+   44  0 Barbosa110   co  1  1 1152 H_PCHSRosa      2                                                                                                                            0
+   45  0 Barbosa220   co                            2                                                                                                                            0
+   46  0 Bgrande66    co                            1                                                                                                                            0
+   47  0 Banadia115   co                            4                                                                                                                            0
+   48  0 Betania220   co  1  1  408 BETANIA         3                                                                                                                            0
+   49  0 Belencito115 co                            4                                                                                                                            0
+   50  0 BelenAuia110 co  1  1 1005 H_America       2                                                                                                                            0
+   50  0 BelenAuia110 co  2  1 1060 H_Nutibara      2                                                                                                                            0
+   51  0 Betania115   co                            3                                                                                                                            0
+   52  0 Bello110     co  1  1 1011 H_Bello         2                                                                                                                            0
+   52  0 Bello110     co  2  1 1058 H_Niquia        2                                                                                                                            0
+   53  0 Bello220     co                            2                                                                                                                            0
+   54  0 Bello442     co                            2                                                                                                                            0
+   55  0 Bolombolo110 co  1  1 1049 H_Magallo       2                                                                                                                            0
+   55  0 Bolombolo110 co  2  1 1076 H_RioFrioTam    2                                                                                                                            0
+   55  0 Bolombolo110 co  3  1 1079 H_RioMulato2    2                                                                                                                            0
+   55  0 Bolombolo110 co  4  1 1082 H_RioPiedras    2                                                                                                                            0
+   55  0 Bolombolo110 co  5  1 1103 H_Urrao         2                                                                                                                            0
+   55  0 Bolombolo110 co  6  1 1116 H_Conde         2                                                                                                                            0
+   55  0 Bolombolo110 co  7  1 1137 H_RioMultat1    2                                                                                                                            0
+   56  0 Bolivar13.8  co                            1                                                                                                                            0
+   57  0 BMalaga115   co                            3                                                                                                                            0
+   58  0 Bmanga220    co                            4                                                                                                                            0
+   59  0 Bmanga115    co                            4                                                                                                                            0
+   60  0 SanAntaca115 co  1  2 3007 T_AutoFamili    4                                                                                                                            0
+   60  0 SanAntaca115 co  2  2 3009 T_AutoSogamo    4                                                                                                                            0
+   60  0 SanAntaca115 co  3  2 3010 T_AutoUnibol    4                                                                                                                            0
+   60  0 SanAntaca115 co  4  2 3042 T_TerBolivar    4                                                                                                                            0
+   61  0 Bolivia115   co                            5                                                                                                                            0
+   62  0 Bolivar66    co                            1                                                                                                                            0
+   63  0 Bosa115      co                            5                                                                                                                            0
+   64  0 Bosque220    co                            1                                                                                                                            0
+   65  0 Bosque66     co                            1                                                                                                                            0
+   66  0 Bosqder50319 co                            1                                                                                                                            0
+   67  0 Barbosa115   co  1  1 1151 H_Planada       4                                                                                                                            0
+   68  0 Brisas115    co  1  1 1064 H_Pastales      3                                                                                                                            0
+   69  0 Barroso110   co  1  1 1009 H_Barroso       2                                                                                                                            0
+   70  0 Barzal115    co                            5                                                                                                                            0
+   71  0 Bureche110   co                            1                                                                                                                            0
+   72  0 Buturama115  co                            4                                                                                                                            0
+   73  0 TaborBura115 co                            3                                                                                                                            0
+   74  0 Calle51115   co                            5                                                                                                                            0
+   75  0 Calle67115   co                            5                                                                                                                            0
+   76  0 Cabrera115   co                            4                                                                                                                            0
+   77  0 Caldas110    co                            2                                                                                                                            0
+   78  0 LaCampiña115 co                            3                                                                                                                            0
+   79  0 Campestre66  co                            1                                                                                                                            0
+   80  0 SanMarcos220 co                            3                                                                                                                            0
+   81  0 Caqueza115   co                            5                                                                                                                            0
+   82  0 Carriees1101 co                            2                                                                                                                            0
+   83  0 Carrieles220 co                            2                                                                                                                            0
+   84  0 FactsCSabana co                            1                                                                                                                            0
+   85  0 SV_Terinal11 co                            1                                                                                                                            0
+   86  0 SV_Terinal21 co                            1                                                                                                                            0
+   87  0 Carmel34.5kV co                            3                                                                                                                            0
+   88  0 Castelana115 co                            5                                                                                                                            0
+   89  0 Catambuco115 co  1  1 1072 H_RioBobo       3                                                                                                                            0
+   89  0 Catambuco115 co  2  1 1083 H_RioSapuye     3                                                                                                                            0
+   90  0 Cabrera220   co                            4                                                                                                                            0
+   91  0 Cabrera113.8 co                            4                                                                                                                            0
+   92  0 Cabrera213.8 co                            4                                                                                                                            0
+   93  0 Cabañas110   co                            2                                                                                                                            0
+   94  0 Caucheras110 co                            2                                                                                                                            0
+   95  0 Cocorna110   co                            2                                                                                                                            0
+   96  0 Belen115     co                            4                                                                                                                            0
+   97  0 Cucuta220    co                            4                                                                                                                            0
+   98  0 PtoCaiedo115 co                            3                                                                                                                            0
+   99  0 Calderas110  co  1  1  106 CALDERAS        2                                                                                                                            0
+   99  0 Calderas110  co  2  1 1143 H_Tatefanes     2                                                                                                                            0
+  100  0 Codazzi115   co                            3                                                                                                                            0
+  101  0 Central110   co                            2                                                                                                                            0
+  102  0 NtpCer1T8    co                            2                                                                                                                            0
+  103  0 ChivorII220  co  1  1  403 CHIVOR          5                                                                                                                            0
+  103  0 ChivorII220  co  2  2 2084 TERMO_JAGUEY    5                                                                                                                            0
+  103  0 ChivorII220  co  3  2 2085 TERMORUBIALE    5                                                                                                                            0
+  104  0 Chicala115   co                            5                                                                                                                            0
+  105  0 Chipicape115 co                            3                                                                                                                            0
+  106  0 Chia115      co                            5                                                                                                                            0
+  107  0 Chiquiira115 co  1  1 1069 H_Puente_Gui    4                                                                                                                            0
+  108  0 Chorodo110   co  1  1 1008 H_Barrancas     2                                                                                                                            0
+  108  0 Chorodo110   co  2  1 1034 H_Herradura     2                                                                                                                            0
+  108  0 Chorodo110   co  3  1 1041 H_La_Vuelta     2                                                                                                                            0
+  108  0 Chorodo110   co  4  1 1138 H_RioVerde      2                                                                                                                            0
+  109  0 Chivor115    co                            5                                                                                                                            0
+  110  0 Cienaga110   co                            1                                                                                                                            0
+  111  0 Circo115     co                            5                                                                                                                            0
+  112  0 Circo220     co                            5                                                                                                                            0
+  113  0 Colombia110  co                            2                                                                                                                            0
+  114  0 Calera115    co  1  1 1098 H_Sueva2        5                                                                                                                            0
+  114  0 Calera115    co  2  1 1153 H_Ventana       5                                                                                                                            0
+  115  0 CañoLimon220 co                            4                                                                                                                            0
+  116  0 Calizas110   co                            2                                                                                                                            0
+  117  0 Chambacu66   co                            1                                                                                                                            0
+  118  0 ElCarmen110  co                            1                                                                                                                            0
+  119  0 NtpCmnGbt16  co                            1                                                                                                                            0
+  120  0 NtpCmnGbt26  co                            1                                                                                                                            0
+  121  0 Campobito115 co  1  2 3014 T_Bioenergy     5                                                                                                                            0
+  122  0 Cerromoso220 co                            1                                                                                                                            0
+  123  0 Conuco115    co                            4                                                                                                                            0
+  124  0 Convenion115 co                            4                                                                                                                            0
+  125  0 Colegio115   co  1  1  313 DARIO VALENC    5                                                                                                                            0
+  126  0 DiacoCOD115  co                            5                                                                                                                            0
+  127  0 Concordia115 co                            5                                                                                                                            0
+  128  0 Concoria57.5 co                            5                                                                                                                            0
+  129  0 Copey1101    co                            1                                                                                                                            0
+  130  0 Copey1102    co                            1                                                                                                                            0
+  131  0 Copey34.5    co                            1                                                                                                                            0
+  132  0 Cordiadad110 co                            1                                                                                                                            0
+  133  0 Cordovuia110 co                            2                                                                                                                            0
+  134  0 Cospique66   co                            1                                                                                                                            0
+  135  0 Compartir115 co                            5                                                                                                                            0
+  136  0 Carrera5115  co                            5                                                                                                                            0
+  137  0 Caracoli220  co                            1                                                                                                                            0
+  138  0 Cerrito115   co  1  1 1003 H_Amaime        3                                                                                                                            0
+  138  0 Cerrito115   co  2  2 3026 T_CoProviden    3                                                                                                                            0
+  139  0 Carreto66    co                            1                                                                                                                            0
+  140  0 Cruzada110   co  1  1 1066 H_Pocune        2                                                                                                                            0
+  140  0 Cruzada110   co  2  1 1117 H_AutGCGold     2                                                                                                                            0
+  141  0 Corozo220    co                            4                                                                                                                            0
+  142  0 Castilla110  co                            2                                                                                                                            0
+  143  0 Cerete110    co                            1                                                                                                                            0
+  144  0 Cartagena220 co  1  2 1005 CARTAGENA1      1                                                                                                                            0
+  144  0 Cartagena220 co  2  2 1006 CARTAGGAS1      1                                                                                                                            0
+  144  0 Cartagena220 co  3  2 1007 CARTAGENA2      1                                                                                                                            0
+  144  0 Cartagena220 co  4  2 1008 CARTAGGAS2      1                                                                                                                            0
+  144  0 Cartagena220 co  5  2 1009 CARTAGENA3      1                                                                                                                            0
+  144  0 Cartagena220 co  6  2 1010 CARTAGGAS3      1                                                                                                                            0
+  145  0 Cartagena66  co                            1                                                                                                                            0
+  146  0 Catama115    co                            5                                                                                                                            0
+  147  0 Centro110    co                            1                                                                                                                            0
+  148  0 Cueste500231 co                            1                                                                                                                            0
+  149  0 Diamante115  co                            3                                                                                                                            0
+  150  0 Diaco115     co                            4                                                                                                                            0
+  151  0 DieselII115  co                            3                                                                                                                            0
+  152  0 DonJuana115  co                            4                                                                                                                            0
+  153  0 Dorada115    co  1  1 1080 H_RioNegro      3                                                                                                                            0
+  153  0 Dorada115    co  2  1 1136 H_RioHondo      3                                                                                                                            0
+  153  0 Dorada115    co  3  2 1074 TERMODORADA1    3                                                                                                                            0
+  153  0 Dorada115    co  4  2 1076 TERMODORAGAS    3                                                                                                                            0
+  153  0 Dorada115    co  5  1 1130 H_Paraiso       3                                                                                                                            0
+  154  0 Dosquedas115 co                            3                                                                                                                            0
+  155  0 Wimke76MW    co                            1                                                                                                                            0
+  156  0 AutogEol13.8 co  1  2 3006 T_AutHormiga    4                                                                                                                            0
+  156  0 AutogEol13.8 co  2  2 3019 T_CogCabanas    4                                                                                                                            0
+  156  0 AutogEol13.8 co  3  2 3021 T_CogPapeles    4                                                                                                                            0
+  157  0 Enea115      co                            3                                                                                                                            0
+  158  0 Enea220      co                            3                                                                                                                            0
+  159  0 Envigado110  co                            2                                                                                                                            0
+  160  0 Envigado220  co                            2                                                                                                                            0
+  161  0 Envigado44   co                            2                                                                                                                            0
+  162  0 Esmeralda220 co                            3                                                                                                                            0
+  163  0 Esmerasp13.8 co                            3                                                                                                                            0
+  164  0 Estadio110   co                            1                                                                                                                            0
+  165  0 Estambul115  co                            3                                                                                                                            0
+  166  0 Estambul230  co                            3                                                                                                                            0
+  167  0 Facataiva115 co                            5                                                                                                                            0
+  168  0 FloridCOD115 co                            5                                                                                                                            0
+  169  0 FloridSSA115 co                            4                                                                                                                            0
+  170  0 Florencia115 co                            3                                                                                                                            0
+  171  0 Flores220    co                            1                                                                                                                            0
+  172  0 NtpFls1N23   co  1  2 1036 FLORES 1        1                                                                                                                            0
+  172  0 NtpFls1N23   co  2  2 1038 FLORES1GN       1                                                                                                                            0
+  172  0 NtpFls1N23   co  3  2 2047 FLORES4         1                                                                                                                            0
+  172  0 NtpFls1N23   co  4  2 2049 FLORES4GIM      1                                                                                                                            0
+  173  0 Fontibon115  co                            5                                                                                                                            0
+  174  0 Fundacion220 co                            1                                                                                                                            0
+  175  0 GranSaana115 co                            5                                                                                                                            0
+  176  0 Gaira110     co                            1                                                                                                                            0
+  177  0 Guaca115     co                            5                                                                                                                            0
+  178  0 Guaca220     co  1  1  310 LA GUACA        5                                                                                                                            0
+  179  0 NtpGorVer17  co                            5                                                                                                                            0
+  180  0 Gorgonola115 co                            5                                                                                                                            0
+  181  0 Gorgonla57.5 co                            5                                                                                                                            0
+  182  0 Guatapuri110 co                            1                                                                                                                            0
+  183  0 Girardota110 co  1  1  522 C_LLERAS_R      2                                                                                                                            0
+  184  0 Guatape110   co  1  1 1148 H_Nare          2                                                                                                                            0
+  184  0 Guatape110   co  2  1 1157 H_Churimo       2                                                                                                                            0
+  185  0 Guatape220   co  1  1  102 GUATAPE         2                                                                                                                            0
+  186  0 Guateque115  co                            5                                                                                                                            0
+  187  0 Guadalupe220 co  1  1  114 GUADALUPE 4     2                                                                                                                            0
+  187  0 Guadalupe220 co  2  1 1067 H_Porce3Meno    2                                                                                                                            0
+  187  0 Guadalupe220 co  3  1 1156 H_Minavieja     2                                                                                                                            0
+  188  0 GuajiraI19MW co                            1                                                                                                                            0
+  189  0 SVTerminal21 co                            1                                                                                                                            0
+  190  0 Guarcama110  co  1  1 1115 H_Chorrerita    2                                                                                                                            0
+  190  0 Guarcama110  co  2  1 1139 H_SantaInes     2                                                                                                                            0
+  191  0 Piedecsta115 co                            4                                                                                                                            0
+  192  0 Guavio115    co  1  1 1033 H_Guaviomeno    5                                                                                                                            0
+  193  0 Guavio220    co  1  1  213 GUAVIO          5                                                                                                                            0
+  194  0 Guayabal110  co                            2                                                                                                                            0
+  195  0 Guayabal220  co                            2                                                                                                                            0
+  196  0 Hispania110  co  1  1 1092 H_SantaRita     2                                                                                                                            0
+  196  0 Hispania110  co  2  1 1147 H_Guaico        2                                                                                                                            0
+  196  0 Hispania110  co  3  1 1149 H_LaJoya        2                                                                                                                            0
+  197  0 Carriees1102 co                            2                                                                                                                            0
+  198  0 Carriees1103 co                            2                                                                                                                            0
+  199  0 Hidronre13.8 co  1  1 1122 H_Hidronare     2                                                                                                                            0
+  200  0 Hermosa115   co                            3                                                                                                                            0
+  201  0 Hermosa220   co                            3                                                                                                                            0
+  202  0 Horizonte110 co                            2                                                                                                                            0
+  203  0 Huila230     co                            3                                                                                                                            0
+  204  0 Indumil115   co                            5                                                                                                                            0
+  205  0 Industles110 co                            2                                                                                                                            0
+  206  0 CogIncca13.8 co  1  2 3020 T_CogIncauca    3                                                                                                                            0
+  207  0 NtpIndu7     co                            5                                                                                                                            0
+  208  0 Panameana115 co                            3                                                                                                                            0
+  209  0 Irra115      co  1  1 1020 H_Cauya         3                                                                                                                            0
+  209  0 Irra115      co  2  1 1054 H_MorroAzul     3                                                                                                                            0
+  209  0 Irra115      co  3  1 1159 H_Quinchia      3                                                                                                                            0
+  210  0 Itagui110    co                            2                                                                                                                            0
+  211  0 LaJagua110   co                            1                                                                                                                            0
+  212  0 Jaguas220    co  1  1  103 JAGUAS          2                                                                                                                            0
+  213  0 Jamondino220 co                            3                                                                                                                            0
+  214  0 Jamondino115 co  1  1 1094 H_SFrancisPu    3                                                                                                                            0
+  215  0 Jardinera115 co                            3                                                                                                                            0
+  216  0 Jepirachi110 co                            1                                                                                                                            0
+  217  0 SanJerimo110 co  1  1 1146 H_AurraSucia    2                                                                                                                            0
+  218  0 Jamundi115   co                            3                                                                                                                            0
+  219  0 Jenesano115  co                            4                                                                                                                            0
+  220  0 NtpJoukT2    co                            1                                                                                                                            0
+  221  0 Juanch220115 co                            3                                                                                                                            0
+  222  0 Juanchito115 co                            3                                                                                                                            0
+  223  0 Juanchito220 co                            3                                                                                                                            0
+  224  0 LaCeja110    co  1  1 1018 H_Cascada       2                                                                                                                            0
+  224  0 LaCeja110    co  2  1 1158 H_Chilsa        2                                                                                                                            0
+  225  0 LasFlores110 co                            1                                                                                                                            0
+  226  0 LaPaz220     co                            4                                                                                                                            0
+  227  0 Ladera115    co                            3                                                                                                                            0
+  228  0 SELagunas110 co                            2                                                                                                                            0
+  229  0 Laguneta115  co  1  1  312 LAGUN-LIMON     5                                                                                                                            0
+  230  0 Libertad110  co                            1                                                                                                                            0
+  231  0 LasFloes34.5 co                            1                                                                                                                            0
+  232  0 LaTasaera220 co  1  1  115 LA TASAJERA     2                                                                                                                            0
+  233  0 Maicao110    co                            1                                                                                                                            0
+  234  0 Mambita1151  co                            5                                                                                                                            0
+  235  0 Mambita1152  co                            5                                                                                                                            0
+  236  0 LaMarina66   co                            1                                                                                                                            0
+  237  0 Manzanres115 co  1  1 1026 H_ElEden        3                                                                                                                            0
+  237  0 Manzanres115 co  2  1 1088 H_SanJose       3                                                                                                                            0
+  237  0 Manzanres115 co  3  1 1124 H_Montebonit    3                                                                                                                            0
+  238  0 Membrillal66 co                            1                                                                                                                            0
+  239  0 Mocoa115     co                            3                                                                                                                            0
+  240  0 Heliconia220 co                            2                                                                                                                            0
+  241  0 Heliconia500 co                            2                                                                                                                            0
+  242  0 Melendez115  co                            3                                                                                                                            0
+  243  0 Mesa220      co                            5                                                                                                                            0
+  244  0 Magdalna34.5 co                            1                                                                                                                            0
+  245  0 LaMiel220    co  1  1  504 MIEL I          3                                                                                                                            0
+  246  0 Miraflres110 co                            2                                                                                                                            0
+  247  0 Miraflres220 co                            2                                                                                                                            0
+  248  0 Malena220    co  1  1 1016 H_Caracoli      2                                                                                                                            0
+  249  0 MuñaII57.5   co                            5                                                                                                                            0
+  250  0 Manzanres110 co                            1                                                                                                                            0
+  251  0 NtpMoc21     co                            3                                                                                                                            0
+  252  0 Mocoa13.8    co                            3                                                                                                                            0
+  253  0 Monteria220  co                            1                                                                                                                            0
+  254  0 Montevdeo115 co                            5                                                                                                                            0
+  255  0 Morato115    co  1  1 1097 H_Suba          5                                                                                                                            0
+  256  0 Mosquera115  co                            5                                                                                                                            0
+  257  0 Mirolindo115 co  1  1  511 CUCUANA         3                                                                                                                            0
+  257  0 Mirolindo115 co  2  1 1024 H_Currucucue    3                                                                                                                            0
+  257  0 Mirolindo115 co  3  1 1105 H_VentanaA      3                                                                                                                            0
+  257  0 Mirolindo115 co  4  1 1106 H_VentanaB      3                                                                                                                            0
+  258  0 SanMateo220  co                            4                                                                                                                            0
+  259  0 SanMatota220 co                            5                                                                                                                            0
+  260  0 Muña3115     co                            5                                                                                                                            0
+  261  0 Muiscas115   co                            4                                                                                                                            0
+  262  0 Muña1115     co  1  1  314 CHARQUITO       5                                                                                                                            0
+  263  0 Muzu115      co                            5                                                                                                                            0
+  264  0 NvBarrlla110 co                            1                                                                                                                            0
+  265  0 NvaColnia110 co                            1                                                                                                                            0
+  266  0 NvaEspnza220 co                            5                                                                                                                            0
+  267  0 NvaEspnza500 co                            5                                                                                                                            0
+  268  0 NvaSanuan110 co                            1                                                                                                                            0
+  269  0 NvaTolejo110 co                            1                                                                                                                            0
+  270  0 FactsTna2221 co                            1                                                                                                                            0
+  271  0 SV_Terinal22 co                            1                                                                                                                            0
+  272  0 SV_Terinal12 co                            1                                                                                                                            0
+  273  0 SV_Terinal23 co                            1                                                                                                                            0
+  274  0 SV_Terminal3 co                            1                                                                                                                            0
+  275  0 NvaCajrca115 co                            3                                                                                                                            0
+  276  0 NvaMagena110 co                            1                                                                                                                            0
+  277  0 Noroeste115  co                            5                                                                                                                            0
+  278  0 Noroeste220  co                            5                                                                                                                            0
+  279  0 NvaSRosa44   co                            2                                                                                                                            0
+  280  0 NvaSRosa110  co                            2                                                                                                                            0
+  281  0 Norte115     co                            5                                                                                                                            0
+  282  0 Norte220     co                            5                                                                                                                            0
+  283  0 Norte34.5    co                            5                                                                                                                            0
+  284  0 Norte500     co                            5                                                                                                                            0
+  285  0 Norte13.8T1  co                            5                                                                                                                            0
+  286  0 Norte13.8T2  co                            5                                                                                                                            0
+  287  0 NvaEsp11.4T2 co                            5                                                                                                                            0
+  288  0 NvaEspnza115 co                            5                                                                                                                            0
+  289  0 Oasis110     co                            1                                                                                                                            0
+  290  0 Occidente115 co                            5                                                                                                                            0
+  291  0 Occidente110 co                            2                                                                                                                            0
+  292  0 Occidente220 co                            2                                                                                                                            0
+  293  0 Ocaña220     co                            4                                                                                                                            0
+  294  0 Ocoa1151     co                            5                                                                                                                            0
+  295  0 Ocoa1152     co                            5                                                                                                                            0
+  296  0 Oiba115      co  1  1 1125 H_Oibita        4                                                                                                                            0
+  296  0 Oiba115      co  2  1 1141 H_SBartolome    4                                                                                                                            0
+  297  0 Oriente110   co                            2                                                                                                                            0
+  298  0 Oriente220   co                            2                                                                                                                            0
+  299  0 Oriente46.6  co  1  1 1113 H_CascadaGra    2                                                                                                                            0
+  300  0 Puertotan115 co                            5                                                                                                                            0
+  301  0 Pacifico115  co                            3                                                                                                                            0
+  302  0 Pacifico220  co                            3                                                                                                                            0
+  303  0 Paez220      co                            3                                                                                                                            0
+  304  0 Paipa115     co  1  2 1046 PAIPA 1         4                                                                                                                            0
+  304  0 Paipa115     co  2  2 1047 PAIPA 2         4                                                                                                                            0
+  304  0 Paipa115     co  3  2 1048 PAIPA 3         4                                                                                                                            0
+  305  0 Paipa220     co  1  2 1093 PAIPA 4         4                                                                                                                            0
+  306  0 Palos220     co                            4                                                                                                                            0
+  307  0 Palos115     co                            4                                                                                                                            0
+  308  0 LasPalmas115 co                            3                                                                                                                            0
+  309  0 Panameana138 co                            3                                                                                                                            0
+  310  0 Pance115     co  1  1 1006 H_Asnazu        3                                                                                                                            0
+  310  0 Pance115     co  2  1 1061 H_Ovejas        3                                                                                                                            0
+  310  0 Pance115     co  3  1 1134 H_Piendamo      3                                                                                                                            0
+  311  0 Pance220     co                            3                                                                                                                            0
+  312  0 TPapeles115  co                            3                                                                                                                            0
+  313  0 Paraiso220   co  1  1  309 PARAISO         5                                                                                                                            0
+  314  0 Pasto115     co  1  1 1040 H_JulioBravo    3                                                                                                                            0
+  314  0 Pasto115     co  2  1 1114 H_Cauquillo     3                                                                                                                            0
+  314  0 Pasto115     co  3  1 1118 H_Dovio         3                                                                                                                            0
+  315  0 Pasacas113.8 co                            1                                                                                                                            0
+  316  0 Pasacas213.8 co                            1                                                                                                                            0
+  317  0 Pasacalos110 co                            1                                                                                                                            0
+  318  0 Pasacalos220 co                            1                                                                                                                            0
+  319  0 LaPaz115     co                            5                                                                                                                            0
+  320  0 PBlancas110  co                            2                                                                                                                            0
+  321  0 PapelCuca115 co                            3                                                                                                                            0
+  322  0 Peldar115    co                            5                                                                                                                            0
+  323  0 Perales115   co                            3                                                                                                                            0
+  324  0 Picaleña115  co                            3                                                                                                                            0
+  325  0 SantaBara115 co  1  1 1057 H_Nima          3                                                                                                                            0
+  325  0 SantaBara115 co  2  2 3024 T_CoManuelit    3                                                                                                                            0
+  326  0 Pailon115    co                            3                                                                                                                            0
+  327  0 Palenque220  co                            4                                                                                                                            0
+  328  0 Playas110    co                            2                                                                                                                            0
+  329  0 Playas220    co  1  1  104 PLAYAS          2                                                                                                                            0
+  330  0 Playas44     co                            2                                                                                                                            0
+  331  0 Palermo110   co                            1                                                                                                                            0
+  332  0 Palmas13.8   co  1  1 1045 H_LasPalmas     4                                                                                                                            0
+  333  0 Poblado110   co  1  1 1014 H_CampestreE    2                                                                                                                            0
+  334  0 Popayan115   co  1  1 1029 H_Florida       3                                                                                                                            0
+  334  0 Popayan115   co  2  1 1065 H_PaticoCab     3                                                                                                                            0
+  334  0 Popayan115   co  3  1 1131 H_Patico        3                                                                                                                            0
+  335  0 Porce110     co  1  1 1002 H_Alejandria    2                                                                                                                            0
+  335  0 Porce110     co  2  1 1015 H_Cantayus      2                                                                                                                            0
+  335  0 Porce110     co  3  1 1019 H_CascadaAnt    2                                                                                                                            0
+  335  0 Porce110     co  4  1 1044 H_LaRebusca     2                                                                                                                            0
+  335  0 Porce110     co  5  1 1093 H_Santiago      2                                                                                                                            0
+  335  0 Porce110     co  6  1 1107 H_Violetas      2                                                                                                                            0
+  335  0 Porce110     co  7  1 1154 H_Hidrolimon    2                                                                                                                            0
+  335  0 Porce110     co  8  1 1155 H_AlejandrII    2                                                                                                                            0
+  336  0 Porce220     co  1  1  505 PORCE II        2                                                                                                                            0
+  337  0 Porvenir115  co                            5                                                                                                                            0
+  338  0 Portugal115  co                            5                                                                                                                            0
+  339  0 Principal115 co                            4                                                                                                                            0
+  340  0 Palenque34.5 co                            4                                                                                                                            0
+  341  0 PalenqT113.8 co                            4                                                                                                                            0
+  342  0 PalenqT413.8 co                            4                                                                                                                            0
+  343  0 PalenqT613.8 co                            4                                                                                                                            0
+  344  0 Peralonso115 co  1  1 1031 H_Guacaica      3                                                                                                                            0
+  344  0 Peralonso115 co  2  1 1123 H_LaFlorida     3                                                                                                                            0
+  345  0 Proelerica66 co  1  2 2009 PROELECTRIC1    1                                                                                                                            0
+  345  0 Proelerica66 co  2  2 2012 PROELECTRIC2    1                                                                                                                            0
+  346  0 Palmaseca115 co                            3                                                                                                                            0
+  347  0 PTAR244      co                            2                                                                                                                            0
+  348  0 PTAR13.2     co  1  2 3013 T_Bello         2                                                                                                                            0
+  349  0 PtoNare110   co  1  1 1166 H_AutCemNare    2                                                                                                                            0
+  350  0 Quibdo115    co                            2                                                                                                                            0
+  351  0 RCordoba220  co                            1                                                                                                                            0
+  352  0 RioFrio115   co                            4                                                                                                                            0
+  353  0 RioClaro110  co                            2                                                                                                                            0
+  354  0 Regivit115   co  1  1 1010 H_Bayona        3                                                                                                                            0
+  354  0 Regivit115   co  2  1 1013 H_CampestreC    3                                                                                                                            0
+  354  0 Regivit115   co  3  1 1102 H_Union         3                                                                                                                            0
+  355  0 Reforma220   co                            5                                                                                                                            0
+  356  0 Riogrande110 co  1  1  202 RIOGRANDE 1     2                                                                                                                            0
+  356  0 Riogrande110 co  2  1 1053 H_Montanitas    2                                                                                                                            0
+  356  0 Riogrande110 co  3  1 1077 H_RioGrande     2                                                                                                                            0
+  356  0 Riogrande110 co  4  1 1135 H_RioBravoCa    2                                                                                                                            0
+  357  0 Riogrande44  co  1  1 1108 H_Zeus          2                                                                                                                            0
+  358  0 ElRio110     co                            1                                                                                                                            0
+  359  0 ElRio34_5    co                            1                                                                                                                            0
+  360  0 ElRioBota115 co                            5                                                                                                                            0
+  361  0 Realminas115 co                            4                                                                                                                            0
+  362  0 Riomar34_5   co                            1                                                                                                                            0
+  363  0 RioMayo115   co  1  1 1078 H_RioMayo       3                                                                                                                            0
+  364  0 Rionegro110  co  1  1  125 ESCUELAMINAS    2                                                                                                                            0
+  365  0 Rodeo110     co                            2                                                                                                                            0
+  366  0 LaRosa115    co  1  1 1012 H_Belmonte      3                                                                                                                            0
+  366  0 LaRosa115    co  2  1 1059 H_Nuevoliba     3                                                                                                                            0
+  367  0 RioSinu110   co                            1                                                                                                                            0
+  368  0 SanAntnio220 co                            4                                                                                                                            0
+  369  0 Levapapn0.8  co                            3                                                                                                                            0
+  370  0 SanLornzo220 co                            3                                                                                                                            0
+  371  0 SanLuis115   co                            3                                                                                                                            0
+  372  0 SantaMria115 co                            5                                                                                                                            0
+  373  0 Salitre115   co                            5                                                                                                                            0
+  374  0 Salamina220  co                            3                                                                                                                            0
+  375  0 Salitre57.5  co                            5                                                                                                                            0
+  376  0 SanBerino115 co  1  1 1021 H_Coconuco      3                                                                                                                            0
+  376  0 SanBerino115 co  2  1 1095 H_Silvia        3                                                                                                                            0
+  376  0 SanBerino115 co  3  1 1110 H_AltoOvejas    3                                                                                                                            0
+  377  0 SBernaino220 co                            3                                                                                                                            0
+  378  0 Sochagota115 co                            4                                                                                                                            0
+  379  0 Sochagota220 co                            4                                                                                                                            0
+  380  0 Sucromles115 co                            3                                                                                                                            0
+  381  0 Sierralor110 co                            1                                                                                                                            0
+  382  0 SanFelpe13.2 co                            3                                                                                                                            0
+  383  0 Sidenal115   co                            4                                                                                                                            0
+  384  0 ElSiete115   co                            2                                                                                                                            0
+  385  0 Silencio110  co                            1                                                                                                                            0
+  386  0 Silencio34.5 co                            1                                                                                                                            0
+  387  0 SanJuan110   co                            1                                                                                                                            0
+  388  0 SaltoII115   co  1  1  311 SALTO II        5                                                                                                                            0
+  388  0 SaltoII115   co  2  1  315 TEQUEND1-4      5                                                                                                                            0
+  389  0 SanLoroII110 co  1  1  523 STO_DOMINGO     2                                                                                                                            0
+  390  0 ElSaltEPM110 co  1  1  112 TRONERAS        2                                                                                                                            0
+  390  0 ElSaltEPM110 co  2  1  113 GUADALUPE 3     2                                                                                                                            0
+  390  0 ElSaltEPM110 co  3  1 1070 H_Remedios      2                                                                                                                            0
+  391  0 ElSalto220   co                            2                                                                                                                            0
+  392  0 ElSalto44    co                            2                                                                                                                            0
+  393  0 SanMarcos115 co                            3                                                                                                                            0
+  394  0 SanMarcos500 co                            3                                                                                                                            0
+  395  0 SanMaros13.8 co                            3                                                                                                                            0
+  396  0 Samore220    co                            4                                                                                                                            0
+  397  0 SantaMrta110 co                            1                                                                                                                            0
+  398  0 Suamox115    co                            4                                                                                                                            0
+  399  0 SanFacon115  co                            5                                                                                                                            0
+  400  0 SanFacon57.5 co                            5                                                                                                                            0
+  401  0 SanJose115   co                            5                                                                                                                            0
+  402  0 SanLornzo110 co  1  1  520 SNMIGUEL        2                                                                                                                            0
+  402  0 SanLornzo110 co  2  1 1027 H_ElMolino      2                                                                                                                            0
+  402  0 SanLornzo110 co  3  1 1028 H_ElPopal       2                                                                                                                            0
+  402  0 SanLornzo110 co  4  1 1090 H_SanMatias     2                                                                                                                            0
+  402  0 SanLornzo110 co  5  1 1161 H_Colibri       2                                                                                                                            0
+  403  0 SanMateo115  co                            4                                                                                                                            0
+  404  0 SanAntlle115 co  1  1 1073 H_RioCali       3                                                                                                                            0
+  405  0 SnCarlEEB115 co                            5                                                                                                                            0
+  406  0 SanDiego110  co                            2                                                                                                                            0
+  407  0 Sogamoso500  co                            4                                                                                                                            0
+  408  0 Sogamo34.5T2 co                            4                                                                                                                            0
+  409  0 Sogamo34.5T3 co                            4                                                                                                                            0
+  410  0 ElSol115     co                            5                                                                                                                            0
+  411  0 SurCali115   co                            3                                                                                                                            0
+  412  0 NtpSris2T6   co                            5                                                                                                                            0
+  413  0 SantaRosa44  co  1  1 1017 H_Caruquia      2                                                                                                                            0
+  413  0 SantaRosa44  co  2  1 1032 H_Guanaquita    2                                                                                                                            0
+  413  0 SantaRosa44  co  3  1 1063 H_Palmas        2                                                                                                                            0
+  414  0 Suaita115    co  1  1 1109 H_Altamira      4                                                                                                                            0
+  414  0 Suaita115    co  2  1 1140 H_SantaRosa     4                                                                                                                            0
+  415  0 Suba115      co                            5                                                                                                                            0
+  416  0 SVTerminal22 co                            1                                                                                                                            0
+  417  0 Salvajina220 co  1  1  414 SALVAJINA       3                                                                                                                            0
+  418  0 Sevilla115   co                            4                                                                                                                            0
+  419  0 THispania110 co                            2                                                                                                                            0
+  420  0 Bolivar220   co  1  2 2096 TERMOCARIBE3    1                                                                                                                            0
+  421  0 NtpTDm2      co                            1                                                                                                                            0
+  422  0 NtpTFun1     co                            1                                                                                                                            0
+  423  0 TPuertoNuevo co                            1                                                                                                                            0
+  424  0 TSeboruco115 co                            3                                                                                                                            0
+  425  0 TermoZipa115 co  1  2 1052 ZIPAEMG2        5                                                                                                                            0
+  425  0 TermoZipa115 co  2  2 1053 ZIPAEMG3        5                                                                                                                            0
+  425  0 TermoZipa115 co  3  2 1054 ZIPAEMG4        5                                                                                                                            0
+  425  0 TermoZipa115 co  4  2 1055 ZIPAEMG5        5                                                                                                                            0
+  425  0 TermoZipa115 co  5  2 3017 T_CoCocaCola    5                                                                                                                            0
+  425  0 TermoZipa115 co  6  2 3018 T_CoColtejer    5                                                                                                                            0
+  426  0 TBosconia115 co                            4                                                                                                                            0
+  427  0 Tebsa110     co  1  2 1068 TEBSAB          1                                                                                                                            0
+  427  0 Tebsa110     co  2  2 1069 TEBSAGIM        1                                                                                                                            0
+  428  0 Tebsa220     co  1  2 1001 BARRANQUILL3    1                                                                                                                            0
+  428  0 Tebsa220     co  2  2 1003 BARRANQUILL4    1                                                                                                                            0
+  429  0 Tibabuyes115 co                            5                                                                                                                            0
+  430  0 Candelia13.8 co                            1                                                                                                                            0
+  431  0 Candelaria18 co                            1                                                                                                                            0
+  432  0 Candelria220 co  1  2 2044 C_CANDELARIA    1                                                                                                                            0
+  433  0 Candelria110 co                            1                                                                                                                            0
+  434  0 Termocol220  co  1  2 2080 TERMONORTE      1                                                                                                                            0
+  435  0 TDiaco       co                            4                                                                                                                            0
+  436  0 Toledo220    co                            4                                                                                                                            0
+  437  0 FactsTabana1 co                            1                                                                                                                            0
+  438  0 SV_Terinal24 co                            1                                                                                                                            0
+  439  0 FactsTabana2 co                            1                                                                                                                            0
+  440  0 SV_Terinal25 co                            1                                                                                                                            0
+  441  0 Techo115     co                            5                                                                                                                            0
+  442  0 Tenjo115     co                            5                                                                                                                            0
+  443  0 Ternera220   co                            1                                                                                                                            0
+  444  0 Ternera66    co                            1                                                                                                                            0
+  445  0 Ternera13.8  co                            1                                                                                                                            0
+  446  0 Guajira220   co  1  2 1030 GUAJIRA1        1                                                                                                                            0
+  446  0 Guajira220   co  2  2 1031 GUAJ1GAS        1                                                                                                                            0
+  446  0 Guajira220   co  3  2 1033 GUAJIRA2        1                                                                                                                            0
+  446  0 Guajira220   co  4  2 1034 GUAJ2GAS        1                                                                                                                            0
+  447  0 Tibu115      co                            4                                                                                                                            0
+  448  0 NtpTidm7     co                            5                                                                                                                            0
+  449  0 Tigre110     co  1  1 1162 H_Hidromonos    2                                                                                                                            0
+  450  0 Tunjita115   co  1  1 1101 H_Tunjita       5                                                                                                                            0
+  451  0 Tuluni115    co  1  1  499 AMOYA           3                                                                                                                            0
+  452  0 Tenay115     co                            3                                                                                                                            0
+  453  0 NtpToch11    co                            4                                                                                                                            0
+  454  0 Toquilla115  co                            4                                                                                                                            0
+  455  0 Torca115     co                            5                                                                                                                            0
+  456  0 Torca220     co                            5                                                                                                                            0
+  457  0 TPeldar115   co                            5                                                                                                                            0
+  458  0 NtpTreoc11   co                            5                                                                                                                            0
+  459  0 Ocaña115     co                            4                                                                                                                            0
+  460  0 Terminal115  co                            5                                                                                                                            0
+  461  0 TStaRosa115  co                            4                                                                                                                            0
+  462  0 Tasajero220  co  1  2 1049 TASAJERO 1      4                                                                                                                            0
+  462  0 Tasajero220  co  2  2 1050 TASAJERO 2      4                                                                                                                            0
+  463  0 Tunja115     co  1  1 1046 H_Libertad      4                                                                                                                            0
+  464  0 Tulua115     co                            3                                                                                                                            0
+  465  0 Tuluni220    co                            3                                                                                                                            0
+  466  0 Tunal115     co                            5                                                                                                                            0
+  467  0 Tunal220     co                            5                                                                                                                            0
+  468  0 Union34.5    co                            1                                                                                                                            0
+  469  0 Union110     co                            1                                                                                                                            0
+  470  0 LaUnion115   co                            3                                                                                                                            0
+  471  0 Uraba220     co                            1                                                                                                                            0
+  472  0 Urra220      co  1  1  101 URRA            1                                                                                                                            0
+  473  0 Usaquen115   co  1  1 1091 H_SantaAna      5                                                                                                                            0
+  473  0 Usaquen115   co  2  1 1104 H_Usaquen       5                                                                                                                            0
+  474  0 Usme115      co  1  2 3015 T_BiogDJuana    5                                                                                                                            0
+  474  0 Usme115      co  2  2 3029 T_DonJuanaII    5                                                                                                                            0
+  475  0 VillaEella66 co                            1                                                                                                                            0
+  476  0 Valledpar110 co                            1                                                                                                                            0
+  477  0 Valledar13_8 co                            1                                                                                                                            0
+  478  0 VictorCQR115 co                            3                                                                                                                            0
+  479  0 NtpVer1T12   co                            5                                                                                                                            0
+  480  0 Veraguas57.5 co                            5                                                                                                                            0
+  481  0 VllaHeosa110 co                            2                                                                                                                            0
+  482  0 VictorEEB115 co                            5                                                                                                                            0
+  483  0 Vijes115     co                            3                                                                                                                            0
+  484  0 Yarumal110   co  1  1 1062 H_Pajarito      2                                                                                                                            0
+  484  0 Yarumal110   co  2  1 1089 H_SanjoseMon    2                                                                                                                            0
+  484  0 Yarumal110   co  3  1 1150 H_Hidrotigre    2                                                                                                                            0
+  484  0 Yarumal110   co  4  1 1167 H_SanjoseMII    2                                                                                                                            0
+  485  0 YarumalII110 co  1  1 1086 H_SanAndres2    2                                                                                                                            0
+  485  0 YarumalII110 co  2  1 1164 H_Chorrera      2                                                                                                                            0
+  486  0 NtpYum100    co  1  2 3003 T_ArgosYumbo    3                                                                                                                            0
+  487  0 Yumbo220     co                            3                                                                                                                            0
+  488  0 Zamora110    co  1  1 1050 H_Manantiale    2                                                                                                                            0
+  489  0 Zarzal115    co  1  1 1022 H_Cocuyo        3                                                                                                                            0
+  489  0 Zarzal115    co  2  2 3027 T_CoRioPaila    3                                                                                                                            0
+  490  0 Zipaquira115 co                            5                                                                                                                            0
+  491  0 Zaragoilla66 co                            1                                                                                                                            0
+  492  0 Zulia115     co                            4                                                                                                                            0
+  493  0 Aguaclra80MW co  1  2 3047 T_Villanueva    4                                                                                                                            0
+  494  0 CasaEla180MW co                            1                                                                                                                            0
+  495  0 NtpaCOLORA16 co                            1                                                                                                                            0
+  496  0 Alpha500     co                            1                                                                                                                            0
+  497  0 Eólico280MW1 co                            1                                                                                                                            0
+  498  0 Culantl100MW co                            1                                                                                                                            0
+  499  0 NtpaEVali5   co                            1                                                                                                                            0
+  500  0 NtpaFTep12   co                            3                                                                                                                            0
+  501  0 ElGaboI120MW co                            4                                                                                                                            0
+  502  0 Andes85MW    co  1  1  508 SOGAMOSO        4                                                                                                                            0
+  503  0 AtlantoI30MW co                            1                                                                                                                            0
+  504  0 BadelI8.6MW  co                            1                                                                                                                            0
+  505  0 NtpaSBar11   co                            5                                                                                                                            0
+  506  0 SolarL79.6MW co                            5                                                                                                                            0
+  507  0 NtpaSBuvi1   co                            1                                                                                                                            0
+  508  0 NtpaSCamp2   co                            1                                                                                                                            0
+  509  0 NtpaSCarr5   co                            1                                                                                                                            0
+  510  0 LaCayena19MW co                            1                                                                                                                            0
+  511  0 Charcos99MW  co                            4                                                                                                                            0
+  512  0 Chicama420MW co                            4                                                                                                                            0
+  513  0 Corocora9MW  co  1  1  207 ESMERALDA       3                                                                                                                            0
+  513  0 Corocora9MW  co  2  1  209 SANFRANCISCO    3                                                                                                                            0
+  513  0 Corocora9MW  co  3  2 3028 T_CoRisarald    3                                                                                                                            0
+  513  0 Corocora9MW  co  4  1 1121 H_Hidroarqui    3                                                                                                                            0
+  513  0 Corocora9MW  co  5  1 1126 H_PacoraI       3                                                                                                                            0
+  513  0 Corocora9MW  co  6  1 1127 H_PacoraII      3                                                                                                                            0
+  514  0 NtpaSEmc21   co                            3                                                                                                                            0
+  515  0 Escobal699MW co                            3                                                                                                                            0
+  516  0 NtpaSGua11   co                            3                                                                                                                            0
+  517  0 NtpaSGuam11  co                            4                                                                                                                            0
+  518  0 Guayacan8MW  co                            1                                                                                                                            0
+  519  0 NtpaSHgra1   co                            5                                                                                                                            0
+  520  0 HondaSrII9MW co                            5                                                                                                                            0
+  521  0 LATAMSA200MW co                            1                                                                                                                            0
+  522  0 NtpaSLaMata  co                            4                                                                                                                            0
+  523  0 NtpaSLmart1  co                            5                                                                                                                            0
+  524  0 NtpaSMcha1   co  1  2 3043 T_TerCapacho    4                                                                                                                            0
+  524  0 NtpaSMcha1   co  2  2 3044 T_Termotame     4                                                                                                                            0
+  525  0 Ocaitaua20MW co  1  1 1042 H_LaCascada     4                                                                                                                            0
+  526  0 NtpaSMen11   co  1  2 3008 T_AutogCDSTM    5                                                                                                                            0
+  526  0 NtpaSMen11   co  2  2 3011 T_AutoYaguar    5                                                                                                                            0
+  527  0 MataReda25MW co                            4                                                                                                                            0
+  528  0 Fundacon99MW co  1  2 3041 T_Tequendama    1                                                                                                                            0
+  529  0 Portonl102MW co                            2                                                                                                                            0
+  530  0 NtpaSPlay21  co                            4                                                                                                                            0
+  531  0 Prospe19.5MW co                            1                                                                                                                            0
+  532  0 NtpaSPtef1   co  1  1 1052 H_Mondomo       3                                                                                                                            0
+  532  0 NtpaSPtef1   co  2  1 1081 H_RioPalo       3                                                                                                                            0
+  533  0 PétaloII19MW co  1  1 1168 H_SanAlberto    4                                                                                                                            0
+  534  0 Pétalocre9MW co                            1                                                                                                                            0
+  535  0 Romosio150MW co                            1                                                                                                                            0
+  536  0 Sabana200MW  co                            1                                                                                                                            0
+  537  0 Sabanaes15MW co                            4                                                                                                                            0
+  538  0 Shangra160MW co                            3                                                                                                                            0
+  539  0 NtpaSSinc16  co                            1                                                                                                                            0
+  540  0 SanIsi9.09MW co  1  2 3022 T_CogProenca    3                                                                                                                            0
+  540  0 SanIsi9.09MW co  2  2 3039 T_ProencaII     3                                                                                                                            0
+  541  0 NtpaSTamaII2 co                            1                                                                                                                            0
+  542  0 Tropezon9MW  co                            3                                                                                                                            0
+  543  0 LaUnion100MW co                            1                                                                                                                            0
+  544  0 NtpaSVade2   co                            1                                                                                                                            0
+  545  0 NtpaSZap11   co                            4                                                                                                                            0
+  546  0 Zambra15.5MW co                            1                                                                                                                            0
+  547  0 NtpaSZub21   co                            5                                                                                                                            0
+  548  0 NtpaSarbl1   co  1  1 1085 H_Sajandi       3                                                                                                                            0
+  548  0 NtpaSarbl1   co  2  1 1120 H_Guachicono    3                                                                                                                            0
+  549  0 NtpaSbong1   co                            1                                                                                                                            0
+  550  0 NtpaSbsIII1  co  1  2 3040 T_Reficar       1                                                                                                                            0
+  551  0 NtpaSchi1    co  1  1 1035 H_Intermedia    3                                                                                                                            0
+  551  0 NtpaSchi1    co  2  1 1055 H_Municipal     3                                                                                                                            0
+  551  0 NtpaSchi1    co  3  1 1087 H_SanCancio     3                                                                                                                            0
+  552  0 NtpaScop2    co                            1                                                                                                                            0
+  553  0 NtpaSelgo13  co  1  1 1074 H_RioFrioI      3                                                                                                                            0
+  553  0 NtpaSelgo13  co  2  1 1075 H_RioFrioII     3                                                                                                                            0
+  553  0 NtpaSelgo13  co  3  1 1084 H_Rumor         3                                                                                                                            0
+  553  0 NtpaSelgo13  co  4  1 1099 H_TuluaAlto     3                                                                                                                            0
+  553  0 NtpaSelgo13  co  5  1 1100 H_TuluaBajo     3                                                                                                                            0
+  553  0 NtpaSelgo13  co  6  2 3023 T_CoIngscarl    3                                                                                                                            0
+  553  0 NtpaSelgo13  co  7  2 3031 T_IngCarmelt    3                                                                                                                            0
+  553  0 NtpaSelgo13  co  8  2 3032 T_IngPichich    3                                                                                                                            0
+  553  0 NtpaSelgo13  co  9  2 3033 T_IngPichiI     3                                                                                                                            0
+  553  0 NtpaSelgo13  co 10  1 1119 H_Frazadas      3                                                                                                                            0
+  554  0 NtpaSgua21   co  1  2 1090 TERMOVALLE      3                                                                                                                            0
+  554  0 NtpaSgua21   co  2  2 1091 TERMOVAGAS      3                                                                                                                            0
+  554  0 NtpaSgua21   co  3  2 2015 TERMOEMCALI     3                                                                                                                            0
+  554  0 NtpaSgua21   co  4  2 2017 TERMOEMCGAS     3                                                                                                                            0
+  555  0 NtpaSjard3   co                            1                                                                                                                            0
+  556  0 NtpaSlmin1   co                            5                                                                                                                            0
+  557  0 NtpaSmang12  co                            1                                                                                                                            0
+  558  0 NtpaSnovi1   co                            5                                                                                                                            0
+  559  0 NtpaSolarPue co                            3                                                                                                                            0
+  560  0 Urra19MW     co                            1                                                                                                                            0
+  561  0 NtpaSpabl31  co  1  1  412 CALIMA          3                                                                                                                            0
+  562  0 NtpaSpalm1   co  1  1  205 INSULA          3                                                                                                                            0
+  563  0 NtpaSprim1   co                            3                                                                                                                            0
+  564  0 SoldelrII9MW co  1  2 3030 T_EgipPalmas    1                                                                                                                            0
+  565  0 NtpaSserp1   co                            1                                                                                                                            0
+  566  0 NtpaSsue1    co                            5                                                                                                                            0
+  567  0 NtpaSsycI1   co                            1                                                                                                                            0
+  568  0 NtpaStern1   co                            1                                                                                                                            0
+  569  0 NtpaStupi5   co                            4                                                                                                                            0
+  570  0 NtpaWpec2    co                            1                                                                                                                            0
+  571  0 Eólicota50MW co                            1                                                                                                                            0
+  572  0 Eólicoe200MW co                            1                                                                                                                            0
+  573  0 Ntpaltb1     co                            5                                                                                                                            0
+  574  0 NtpasAchi1   co                            3                                                                                                                            0
+  575  0 AutogSlc19MW co                            1                                                                                                                            0
+  576  0 NtpasAmb2    co  1  2 1077 TERMOSIERRA     2                                                                                                                            0
+  576  0 NtpasAmb2    co  2  2 1079 TSIERRAGAS      2                                                                                                                            0
+  577  0 NtpasArig5   co                            1                                                                                                                            0
+  578  0 NtpasArreb1  co  1  1 1051 H_Mirolindo     3                                                                                                                            0
+  578  0 NtpasArreb1  co  2  1 1071 H_Rio_Recio     3                                                                                                                            0
+  578  0 NtpasArreb1  co  3  2 3038 T_Piedras       3                                                                                                                            0
+  579  0 NtpasAuMal1  co                            1                                                                                                                            0
+  580  0 NtpasAzaI1   co                            3                                                                                                                            0
+  581  0 NtpasBamb1   co                            4                                                                                                                            0
+  582  0 NtpasBarb1   co  1  2 3037 T_MilpaSamac    4                                                                                                                            0
+  583  0 NtpasBond3   co                            1                                                                                                                            0
+  584  0 NtpasBugam1  co                            1                                                                                                                            0
+  585  0 NtpasCaCes1  co                            1                                                                                                                            0
+  586  0 NtpasCama1   co                            1                                                                                                                            0
+  587  0 NtpasCarm41  co  1  2 3016 T_Castilla1     3                                                                                                                            0
+  587  0 NtpasCarm41  co  2  2 3025 T_CoMayagues    3                                                                                                                            0
+  587  0 NtpasCarm41  co  3  2 3049 T_AutMariaL     3                                                                                                                            0
+  588  0 NtpasCarr2   co  1  2 2018 TERMOCENTRO     2                                                                                                                            0
+  588  0 NtpasCarr2   co  2  2 2019 TCENFO          2                                                                                                                            0
+  589  0 NtpasCasi1   co                            1                                                                                                                            0
+  590  0 NtpasCayIV1  co                            3                                                                                                                            0
+  591  0 NtpasChen1   co  1  1  404 PRADO           3                                                                                                                            0
+  591  0 NtpasChen1   co  2  1  405 PRADO4          3                                                                                                                            0
+  592  0 NtpasChic1   co                            1                                                                                                                            0
+  593  0 NtpasChur1   co                            1                                                                                                                            0
+  594  0 NtpasCim1    co                            4                                                                                                                            0
+  595  0 NtpasCimit5  co                            2                                                                                                                            0
+  596  0 NtpasCoII1   co                            1                                                                                                                            0
+  597  0 NtpasCondr1  co                            5                                                                                                                            0
+  598  0 NtpasCorz5   co  1  2 2088 ELTESORITO      1                                                                                                                            0
+  599  0 NtpasDesb1   co                            2                                                                                                                            0
+  600  0 NtpasDns1    co                            3                                                                                                                            0
+  601  0 NtpasDviz1   co                            1                                                                                                                            0
+  602  0 NtpasEdan1   co                            5                                                                                                                            0
+  603  0 NtpasFland1  co  1  1 1023 H_Coello        3                                                                                                                            0
+  604  0 NtpasFotm1   co                            1                                                                                                                            0
+  605  0 NtpasFron1   co                            4                                                                                                                            0
+  606  0 NtpasGuac1   co                            1                                                                                                                            0
+  607  0 NtpasHeli1   co                            3                                                                                                                            0
+  608  0 NtpasHgua1   co                            3                                                                                                                            0
+  609  0 NtpasHigue1  co                            4                                                                                                                            0
+  610  0 NtpasHlac1   co                            3                                                                                                                            0
+  611  0 NtpasIntII1  co  1  1 1144 H_TZII          1                                                                                                                            0
+  611  0 NtpasIntII1  co  2  1 1068 H_ProvidencI    1                                                                                                                            0
+  612  0 NtpasLaur1   co  1  2 3005 T_AutFertico    4                                                                                                                            0
+  613  0 NtpasLindm2  co  1  2 1080 MERILECTRICA    4                                                                                                                            0
+  614  0 NtpasMarrm1  co  1  2 3012 T_AutTurgas     3                                                                                                                            0
+  615  0 NtpasMiraf1  co                            4                                                                                                                            0
+  616  0 NtpasMisk2   co  1  1  399 EL QUIMBO       3                                                                                                                            0
+  617  0 NtpasNobs1   co                            4                                                                                                                            0
+  618  0 NtpasOrqd3   co                            3                                                                                                                            0
+  619  0 NtpasPale2b1 co  1  1 1036 H_Inza          3                                                                                                                            0
+  619  0 NtpasPale2b1 co  2  1 1037 H_IquiraI       3                                                                                                                            0
+  619  0 NtpasPale2b1 co  3  1 1038 H_IquiraII      3                                                                                                                            0
+  619  0 NtpasPale2b1 co  4  1 1043 H_LaPita        3                                                                                                                            0
+  619  0 NtpasPale2b1 co  5  1 1112 H_Buco          3                                                                                                                            0
+  620  0 NtpasPric1   co  1  2 2046 TC_GECELCA3     1                                                                                                                            0
+  621  0 NtpasRamI1   co                            4                                                                                                                            0
+  622  0 NtpasSalm1   co  1  1 1030 H_Frisolera     3                                                                                                                            0
+  622  0 NtpasSalm1   co  2  1 1160 H_Salamina      3                                                                                                                            0
+  622  0 NtpasSalm1   co  3  1 1132 H_PiacoraI      3                                                                                                                            0
+  622  0 NtpasSalm1   co  4  1 1133 H_PiacoraII     3                                                                                                                            0
+  623  0 SoldeSer40MW co                            4                                                                                                                            0
+  624  0 NtpasSiku1   co  1  2 3000 T_AguaAzul1     4                                                                                                                            0
+  624  0 NtpasSiku1   co  2  2 3001 T_AguaAzul2     4                                                                                                                            0
+  624  0 NtpasSiku1   co  3  2 3048 T_TCasanare1    4                                                                                                                            0
+  625  0 NtpasSuIV1   co                            4                                                                                                                            0
+  626  0 NtpasTamar2  co  1  1  105 SAN CARLOS      2                                                                                                                            0
+  627  0 NtpasTaur1   co                            1                                                                                                                            0
+  628  0 NtpasTenj1   co                            5                                                                                                                            0
+  629  0 NtpasTerrc3  co                            1                                                                                                                            0
+  630  0 NtpasTol1    co                            1                                                                                                                            0
+  631  0 NtpasVirI2   co                            3                                                                                                                            0
+  632  0 NtpasVirg2   co                            3                                                                                                                            0
+  633  0 NtpasYop1    co                            4                                                                                                                            0
+  634  0 NtpasYopa1   co  1  2 2032 TERMO YOPAL2    4                                                                                                                            0
+  634  0 NtpasYopa1   co  2  2 2092 TERMOYOPALG3    4                                                                                                                            0
+  634  0 NtpasYopa1   co  3  2 2093 TERMOYOPALG4    4                                                                                                                            0
+  634  0 NtpasYopa1   co  4  2 2094 TERMOYOPALG5    4                                                                                                                            0
+  634  0 NtpasYopa1   co  5  2 3034 T_Mechero4      4                                                                                                                            0
+  634  0 NtpasYopa1   co  6  2 3035 T_Mechero5      4                                                                                                                            0
+  634  0 NtpasYopa1   co  7  2 3036 T_Mechero6      4                                                                                                                            0
+  634  0 NtpasYopa1   co  8  2 3045 T_TermYopal1    4                                                                                                                            0
+  634  0 NtpasYopa1   co  9  2 3046 T_UatOrito      4                                                                                                                            0
+  634  0 NtpasYopa1   co 10  1 1145 H_Versalles     4                                                                                                                            0
+  635  0 Ntpastorp1   co                            3                                                                                                                            0
+  636  0 Eólico280MW2 co                            1                                                                                                                            0
+  637  0 NtpbSBar16   co                            3                                                                                                                            0
+  638  0 Escoba419MW1 co                            3                                                                                                                            0
+  639  0 Escoba519MW1 co                            3                                                                                                                            0
+  640  0 NtpbSVill6   co                            3                                                                                                                            0
+  641  0 BTGD2Elvador co                            2                                                                                                                            0
+  642  0 BTGD1Elvador co                            2                                                                                                                            0
+  643  0 Acacias280MW co                            1                                                                                                                            0
+  644  0 Eólico280MW3 co                            1                                                                                                                            0
+  645  0 AlmaSo29.8MW co                            4                                                                                                                            0
+  646  0 Escoba419MW2 co                            3                                                                                                                            0
+  647  0 Escoba519MW2 co                            3                                                                                                                            0
+  648  0 Filigrana9MW co                            1                                                                                                                            0
+  649  0 NtpmSVill3   co                            3                                                                                                                            0
+  650  0 LaVicta119MW co                            3                                                                                                                            0
+  651  0 ApuloSrII9MW co  1  1 1056 H_Naveta        5                                                                                                                            0
+  652  0 MTGD2Elvador co                            2                                                                                                                            0
+  653  0 NtpmsDcal3   co                            1                                                                                                                            0
+  654  0 NtpmsPari3   co                            1                                                                                                                            0
+  655  0 NtpmsTenr3   co                            1                                                                                                                            0
+  656  0 Pmed212      co                            3                                                                                                                            0
+  657  0 Pmed222      co                            3                                                                                                                            0
+  658  0 PorceISogshn co  1  1  506 PORCE III       2                                                                                                                            0
+  659  0 PteBelIsu1   co                            4                                                                                                                            0
+  660  0 PteIsuSM1    co                            4                                                                                                                            0
+  661  0 SnCarl500shn co                            2                                                                                                                            0
+  662  0 TR0345F      co                            3                                                                                                                            0
+  663  0 TR0522F      co                            1                                                                                                                            0
+  664  0 TVariateGTP1 co                            2                                                                                                                            0
+  665  0 TVariateGTP2 co                            2                                                                                                                            0
+  666  0 TrfAne2141F  co                            2                                                                                                                            0
+  667  0 TrfAne2142F  co                            2                                                                                                                            0
+  668  0 TrfBac5172F  co                            5                                                                                                                            0
+  669  0 TrfBll2141F  co                            2                                                                                                                            0
+  670  0 TrfBll2142F  co                            2                                                                                                                            0
+  671  0 TrfBol261F   co                            1                                                                                                                            0
+  672  0 TrfBol262F   co                            1                                                                                                                            0
+  673  0 TrfCar211F   co                            2                                                                                                                            0
+  674  0 TrfCar212F   co                            2                                                                                                                            0
+  675  0 TrfCbr211F   co                            4                                                                                                                            0
+  676  0 TrfCbr212F   co                            4                                                                                                                            0
+  677  0 TrfChn5131F  co                            1                                                                                                                            0
+  678  0 TrfChn5132F  co                            1                                                                                                                            0
+  679  0 TrfCmt5131F  co                            1                                                                                                                            0
+  680  0 TrfCmt5132F  co                            1                                                                                                                            0
+  681  0 TrfCop2131F  co                            1                                                                                                                            0
+  682  0 TrfCop25PF   co                            1                                                                                                                            0
+  683  0 TrfEnv2141F  co                            2                                                                                                                            0
+  684  0 TrfEnv2142F  co                            2                                                                                                                            0
+  685  0 TrfEsm2171RF co                            3                                                                                                                            0
+  686  0 TrfMir2141F  co                            2                                                                                                                            0
+  687  0 TrfMir2142F  co                            2                                                                                                                            0
+  688  0 TrfMoc2171F  co                            3                                                                                                                            0
+  689  0 TrfMom131F   co                            1                                                                                                                            0
+  690  0 TrfNBrq2172F co                            1                                                                                                                            0
+  691  0 TrfNte211F   co                            5                                                                                                                            0
+  692  0 TrfNte212F   co                            5                                                                                                                            0
+  693  0 TrfNte5231F  co                            5                                                                                                                            0
+  694  0 TrfNvE5172F  co                            5                                                                                                                            0
+  695  0 TrfOcoa133F  co                            5                                                                                                                            0
+  696  0 TrfOri2141F  co                            2                                                                                                                            0
+  697  0 TrfOri2142F  co                            2                                                                                                                            0
+  698  0 TrfPas211F   co                            1                                                                                                                            0
+  699  0 TrfPas212F   co                            1                                                                                                                            0
+  700  0 TrfPly2144F  co                            2                                                                                                                            0
+  701  0 TrfPqe1371F  co                            4                                                                                                                            0
+  702  0 TrfPqe1374F  co                            4                                                                                                                            0
+  703  0 TrfPqe1376F  co                            4                                                                                                                            0
+  704  0 TrfSab1F     co                            1                                                                                                                            0
+  705  0 TrfSab9F     co                            1                                                                                                                            0
+  706  0 TrfSfp2171F  co                            3                                                                                                                            0
+  707  0 TrfSlt2141F  co                            2                                                                                                                            0
+  708  0 TrfSlt2142F  co                            2                                                                                                                            0
+  709  0 TrfSmc2171F  co                            3                                                                                                                            0
+  710  0 TrfSmt2131F  co                            1                                                                                                                            0
+  711  0 TrfSmt2132F  co                            1                                                                                                                            0
+  712  0 TrfSmt2133F  co                            1                                                                                                                            0
+  713  0 TrfSog5232F  co                            4                                                                                                                            0
+  714  0 TrfSog5233F  co                            4                                                                                                                            0
+  715  0 TrfTer2062F  co                            1                                                                                                                            0
+  716  0 TrfTer2063F  co                            1                                                                                                                            0
+  717  0 TrfVal2312F  co                            1                                                                                                                            0
+  718  0 TrfVal2372F  co                            1                                                                                                                            0
+  719  0 TrfVal3F     co                            1                                                                                                                            0
+ 1500  0 PIMAMPIRO    ec                            7                                                                                                                            0
